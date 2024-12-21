@@ -93,7 +93,7 @@ CountryAnalysis
 
 1. Клонировать репозиторий:
 ```aiignore
-git clone https://github.com/your-repository/country-analysis.git
+git clone https://github.com/https://github.com/Shadowpat42/JavaUlearnProject
 ```
 2. Перейти в директорию проекта:
 
